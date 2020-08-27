@@ -4,13 +4,13 @@
     "static/js/0.a99c4fb1.chunk.js.map": "/cuiswap/static/js/0.a99c4fb1.chunk.js.map",
     "static/js/1.7ff3614b.chunk.js": "/cuiswap/static/js/1.7ff3614b.chunk.js",
     "static/js/1.7ff3614b.chunk.js.map": "/cuiswap/static/js/1.7ff3614b.chunk.js.map",
-    "main.js": "/cuiswap/static/js/main.80502829.chunk.js",
-    "main.js.map": "/cuiswap/static/js/main.80502829.chunk.js.map",
+    "main.js": "/cuiswap/static/js/main.91fea566.chunk.js",
+    "main.js.map": "/cuiswap/static/js/main.91fea566.chunk.js.map",
     "runtime-main.js": "/cuiswap/static/js/runtime-main.59312681.js",
     "runtime-main.js.map": "/cuiswap/static/js/runtime-main.59312681.js.map",
     "static/css/4.70dfa169.chunk.css": "/cuiswap/static/css/4.70dfa169.chunk.css",
-    "static/js/4.5734fea3.chunk.js": "/cuiswap/static/js/4.5734fea3.chunk.js",
-    "static/js/4.5734fea3.chunk.js.map": "/cuiswap/static/js/4.5734fea3.chunk.js.map",
+    "static/js/4.8100d88c.chunk.js": "/cuiswap/static/js/4.8100d88c.chunk.js",
+    "static/js/4.8100d88c.chunk.js.map": "/cuiswap/static/js/4.8100d88c.chunk.js.map",
     "static/js/5.051c2d55.chunk.js": "/cuiswap/static/js/5.051c2d55.chunk.js",
     "static/js/5.051c2d55.chunk.js.map": "/cuiswap/static/js/5.051c2d55.chunk.js.map",
     "static/js/6.b64c7471.chunk.js": "/cuiswap/static/js/6.b64c7471.chunk.js",
@@ -22,11 +22,11 @@
     "static/js/9.1874301f.chunk.js": "/cuiswap/static/js/9.1874301f.chunk.js",
     "static/js/9.1874301f.chunk.js.map": "/cuiswap/static/js/9.1874301f.chunk.js.map",
     "index.html": "/cuiswap/index.html",
-    "precache-manifest.acf7c348fd83a4d161f9305f5c5169a0.js": "/cuiswap/precache-manifest.acf7c348fd83a4d161f9305f5c5169a0.js",
+    "precache-manifest.46b70b519683bfe1ad49327ac9174cb4.js": "/cuiswap/precache-manifest.46b70b519683bfe1ad49327ac9174cb4.js",
     "service-worker.js": "/cuiswap/service-worker.js",
     "static/css/4.70dfa169.chunk.css.map": "/cuiswap/static/css/4.70dfa169.chunk.css.map",
     "static/js/0.a99c4fb1.chunk.js.LICENSE.txt": "/cuiswap/static/js/0.a99c4fb1.chunk.js.LICENSE.txt",
-    "static/js/4.5734fea3.chunk.js.LICENSE.txt": "/cuiswap/static/js/4.5734fea3.chunk.js.LICENSE.txt",
+    "static/js/4.8100d88c.chunk.js.LICENSE.txt": "/cuiswap/static/js/4.8100d88c.chunk.js.LICENSE.txt",
     "static/js/5.051c2d55.chunk.js.LICENSE.txt": "/cuiswap/static/js/5.051c2d55.chunk.js.LICENSE.txt",
     "static/js/6.b64c7471.chunk.js.LICENSE.txt": "/cuiswap/static/js/6.b64c7471.chunk.js.LICENSE.txt",
     "static/js/7.cb5e0823.chunk.js.LICENSE.txt": "/cuiswap/static/js/7.cb5e0823.chunk.js.LICENSE.txt",
@@ -63,7 +63,7 @@
   "entrypoints": [
     "static/js/runtime-main.59312681.js",
     "static/css/4.70dfa169.chunk.css",
-    "static/js/4.5734fea3.chunk.js",
-    "static/js/main.80502829.chunk.js"
+    "static/js/4.8100d88c.chunk.js",
+    "static/js/main.91fea566.chunk.js"
   ]
 }
