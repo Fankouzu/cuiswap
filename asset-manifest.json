@@ -4,8 +4,8 @@
     "static/js/0.7b2b5fe3.chunk.js.map": "/cuiswap/static/js/0.7b2b5fe3.chunk.js.map",
     "static/js/1.7ff3614b.chunk.js": "/cuiswap/static/js/1.7ff3614b.chunk.js",
     "static/js/1.7ff3614b.chunk.js.map": "/cuiswap/static/js/1.7ff3614b.chunk.js.map",
-    "main.js": "/cuiswap/static/js/main.f158a2bd.chunk.js",
-    "main.js.map": "/cuiswap/static/js/main.f158a2bd.chunk.js.map",
+    "main.js": "/cuiswap/static/js/main.7658145c.chunk.js",
+    "main.js.map": "/cuiswap/static/js/main.7658145c.chunk.js.map",
     "runtime-main.js": "/cuiswap/static/js/runtime-main.79d62eea.js",
     "runtime-main.js.map": "/cuiswap/static/js/runtime-main.79d62eea.js.map",
     "static/css/4.82bddf72.chunk.css": "/cuiswap/static/css/4.82bddf72.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.daae23d8.chunk.js": "/cuiswap/static/js/9.daae23d8.chunk.js",
     "static/js/9.daae23d8.chunk.js.map": "/cuiswap/static/js/9.daae23d8.chunk.js.map",
     "index.html": "/cuiswap/index.html",
-    "precache-manifest.d98ae3fd75861005e6baa03fee53cca4.js": "/cuiswap/precache-manifest.d98ae3fd75861005e6baa03fee53cca4.js",
+    "precache-manifest.79db86594e1e68a58933fb99ae5171df.js": "/cuiswap/precache-manifest.79db86594e1e68a58933fb99ae5171df.js",
     "service-worker.js": "/cuiswap/service-worker.js",
     "static/css/4.82bddf72.chunk.css.map": "/cuiswap/static/css/4.82bddf72.chunk.css.map",
     "static/js/4.a75ae760.chunk.js.LICENSE.txt": "/cuiswap/static/js/4.a75ae760.chunk.js.LICENSE.txt",
@@ -62,6 +62,6 @@
     "static/js/runtime-main.79d62eea.js",
     "static/css/4.82bddf72.chunk.css",
     "static/js/4.a75ae760.chunk.js",
-    "static/js/main.f158a2bd.chunk.js"
+    "static/js/main.7658145c.chunk.js"
   ]
 }

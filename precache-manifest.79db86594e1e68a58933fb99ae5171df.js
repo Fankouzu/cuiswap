@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee9c85e70f15f1b60a3fce6265934f2e",
+    "revision": "08cbd3708af18ce28fc95b1700e5c31b",
     "url": "/cuiswap/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cuiswap/static/js/9.daae23d8.chunk.js"
   },
   {
-    "revision": "208f039dd798860851d4",
-    "url": "/cuiswap/static/js/main.f158a2bd.chunk.js"
+    "revision": "03192d9eff7cc98e85fe",
+    "url": "/cuiswap/static/js/main.7658145c.chunk.js"
   },
   {
     "revision": "9ba266484137a4a7e60e",
